@@ -14,7 +14,7 @@ subtitle: "In looking for my way in Web development"
 email: leontev.andrey.s@gmail.com
 name: Leontev Andrey
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  LeontevBlog.ru - путь программиста от 0 до работы.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -79,7 +79,7 @@ social:
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username:
     url:
     desc: Friend me on Facebook
     share: true
@@ -93,8 +93,8 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: 
+    url: 
     desc: Connect with me on LinkedIn
     share: true
 
