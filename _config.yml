@@ -48,7 +48,7 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: Hexlet
+  - cat: "Hexlet"
     desc: "Путь прохождения курсов на Hexlet"
 
 # Social icons and sharing options

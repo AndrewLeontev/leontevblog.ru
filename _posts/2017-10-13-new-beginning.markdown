@@ -1,74 +1,25 @@
 ---
 layout: post
-title:  "Новое начало"
-date:   2017-10-13 14:13:59
+title:  Новое начало
+date:   2017-10-15
 author: Андрей Леонтьев
 categories: Hexlet
-tags:	life code javascript
+tags:	life
 cover:  "/assets/new_beginning/run.jpg"
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Переосмысление
 
-## Adding New Posts
+### Становление
+Привет. Меня зовут Андрей, мне 25 лет. Давно, еще в школе, я познакомился с компьютерами и хотел связать свою жизнь с ними. После этого знакомства начал ходить на дополнительные уроки по информатике которые проводили у нас в школе. Для человека у которого не было компьютера - у меня довольно неплохо получалось. 
+<br /><br />После школы, я так и не пошел по IT специальности - пришлось идти на автослесаря. В этот самый момент у меня появился свой ПК... Первое чем я на нем занимался - игры! Тогда, мне хотелось играть лишь в одну - Lineage II, т.к. в нее играли мои друзья и в нее порой играл я когда ходил в компьютерный клуб. Но, приходилось тешиться обычными играми из за отсутствия интернета. И тут произошло нечто - я познакомился со сборками серверов. Это позволяло мне играть в нее и исследовать мир не имея интернета. Но, это быстро надоело и постоянно чего либо не хватало в этом. Тогда я начал лазить в настройках и той куче файлов что были со сборкой, я абсолютно не понимал что я делаю. Совсем скоро у меня появился интернет и меня стало интересовать только одно - что все это за файлы и что они делают? Интернет открыл мне множество нового, интернет подарил мне тогда знакомство с Java, MySQL, XML, веб-серверами и прочим. Тогда я начал пробовать сохдавать свои сервера, основываясь на каких либо сборках, изменять их под себя, создавать новых NPC, квесты и прочее. Это было незабываемо.
+<br /><br />С этого момента, я окончательно решил что дальнейшая моя жизнь будет связана с компьютерами. Я закончил обучение на автослесаря и сразу пошел поступать в местный колледж по профессии программирования. Это был толковы колледж, там были хорошие учителя по дискретной математике, мат анализу, архитектуре ПК, в чем-то даже по программированию, базам данных и еще некоторым предметам. Все эти предметы мне давались очень легко и еще никогда не был так увлечен учебой. Но, мне так и не суждено было закончить обучение, так как началась война... Со временем мне пришлось вообще покинуть свою страну...
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### Затишье
+И так я добрался до Владивостока. Это очень красивый город, с очень красивой окружающей природой и очень вредными людьми. Прошло какое-то время пока разбирались с документами, размещением и еще некоторыми делами - время приблизилось к сентябрю. Я решил попробовать пойти поступить куда нибудь учиться. Это не составило каких либо проблем и вот я уже сидел на парах. В этот момент я стал осозновать, что я зря трачу тут время, к тому же, мать одна сама не сможет оплачить съемную квартиру и прочее. Я решил что заберу документы и буду искать работу.
+<br /><br /> На удивление, поиск работы не занял много времени. Я разместил резюме и указал в нем что умею. В этот же день мне позвонили и рпедложили пройти собеседование. Это был небольшой комьютерный магазин, который еще занимался ремонтом в центре города. Так я стал продавцом консультантом + немножечко "ламастером": Диагностика ПК и ноутбуков, установка системы, чистка ПК и такими еще относительно простыми задачами. В этот момент я стал забывать про программирование и мне стала больше интересна тема ремонтов. Я часто общался с мастером, учился, запоминал. Но, по прошествии 3х лет, я категорически перехотел этим заниматься, самой основной причиной тому стало увольнение одного нашего мастера. Тогда, я попросился в подмастерье к нашему второму мастеру и предложил что бы в зал нашли другого человека. К сожалению, мое упорство и старание не оценили и обучать не хотели. Через несколько месяцев, мне предложили временно сидеть с мастером и у себя в зале (делать двойную работу с той же оплатой), пока все таки не найдут хотя бы человека без опыта, но с желанием. Даже без того опыта - который был у меня когда я просился... Я расстроился такому положению дел и октазался, чем меня еще в итоге и упрекнули. Но, думаю, на моем месте многие бы не захотели становитья затычкой на время...
 
-### Tags and Categories
-
-If you list one or more categories or tags in the front matter of your post, they will be included with the post on the page as links. Clicking the link will bring you to an auto-generated archive page for the category or tag, created using the [jekyll-archive][jekyll-archive] gem.
-
-### Cover Images
-
-To add a cover image to your post, set the "cover" property in the front matter with the relative URL of the image (i.e. <code>cover: "/assets/cover_image.jpg"</code>).
-
-### Code Snippets
-
-You can use [highlight.js][highlight] to add syntax highlight code snippets:
-
-Use the [Liquid][liquid] `{% raw %}{% highlight <language> %}{% endraw %}` tag to add syntax highlighting to code snippets.
-
-For instance, this template...
-{% highlight html %}
-{% raw %}{% highlight javascript %}    
-function demo(string, times) {    
-  for (var i = 0; i < times; i++) {    
-    console.log(string);    
-  }    
-}    
-demo("hello, world!", 10);
-{% endhighlight %}{% endraw %}
-{% endhighlight %}
-
-...will come out looking like this:
-
-{% highlight javascript %}
-function demo(string, times) {
-  for (var i = 0; i < times; i++) {
-    console.log(string);
-  }
-}
-demo("hello, world!", 10);
-{% endhighlight %}
-
-Syntax highlighting is done using [highlight.js][highlight]. You can change the active theme in [head.html](https://github.com/bencentra/centrarium/blob/2dcd73d09e104c3798202b0e14c1db9fa6e77bc7/_includes/head.html#L15).
-
-### Images
-
-Lightbox has been enabled for images. To create the link that'll launch the lightbox, add <code>data-lightbox</code> and <code>data-title</code> attributes to an <code>&lt;a&gt;</code> tag around your <code>&lt;img&gt;</code> tag. The result is:
-
-<a href="//bencentra.com/assets/images/falcon9_large.jpg" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">
-  <img src="//bencentra.com/assets/images/falcon9_small.jpg" title="Check out the Falcon 9 from SpaceX">
-</a>
-
-For more information, check out the [Lightbox][lightbox] website.
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
-[highlight]:   https://highlightjs.org/
-[lightbox]:    http://lokeshdhakar.com/projects/lightbox2/
-[jekyll-archive]: https://github.com/jekyll/jekyll-archives
-[liquid]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+### Вот она - цель!
+После происходящего на работе, мне захотелоссь перемен. Мне захотелось податься все таки в разработку. Но, с чего начать? Какую отрасль выбрать? Какие материалы изучать? И сколько это займет времени? Это были первые вопросы. Затем, сформировалась еще куча вопросов, за ними еще... Найдя ответ на один из них, начали по немного распутываться следующие. Этим главным вопросом было - какую отрасль выбрать? Я решил что это будет backend web-разработка. В разговоре с другом, он предложил мне попробовать Ruby on Rails и пройти учебник Ruby on Rails Tutorial by M. Hartl (надеюсь ничего не перепутал). Учебник был по старой версии языка и использовал старую версию RoR, но я быстро с ним справился. Когда дело было закончено - я понял что почти ничего не понял, особенно что касается RSpec. Тогда я начал читать книжку Путь Руби, как мне показалось у нее найболее широкие охватываемые областии руби. Когда я заканчивал вторую главу, я решил открыть местнрую доску объявлений и пересмотреть вакансии разработчиков. Тут, ко мне пришло разачоравание - нет ни одной вакансии Руби и РоР разработчиков и в архиве объявлений таких искали только пару раз.
+<br /><br />Пересмотрев всю доску объявлений я решил что изначально надо познать PHP и JavaScript. Затем искать по ним работу и после уже можно будет вернуться назад к Руби если еще будет желание. В этот момент я начал искать всевозможные курсы, книги, статьи и каким-то странным образом наткулся на подкасты Hexlet, которые ведет Рахим Давлеткалиев. Эти подкасты захватили мое сознание, любое свободное время я старался включать их и прослушать хотя бы самую малость. Рахим очень интересно расказывает в них обо все что знает:) Самое главное что случилось при их прослушивании - во мне созрела  **цель!** Во мне созрело чего я хочу и через сколько я этого хочу. Так я познакомился с чудесным ресурсом как Hexlet и стал проходить там обучение. Из того что я проходил и учил раньше - это нечто крайне отличающееся. Кирилл и Рахим в своих курсах учат совсем не так как это делают другие и задачи тут гораздо сложнее. Данное знакомство изменило меня, мои взгляды и мои цели. О всех своих радостях и печалей на этапе этого обучения я планирую делиться в этом блоге. 
+<br />Спасибо за внимание и до скорой встречи всем. Пока!
