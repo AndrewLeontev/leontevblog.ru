@@ -5,6 +5,7 @@ date:   2017-10-15
 author: Андрей Леонтьев
 categories: Hexlet
 tags:	life
+comments: true
 cover:  "/assets/new_beginning/run.jpg"
 ---
 
