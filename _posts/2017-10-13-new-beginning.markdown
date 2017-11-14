@@ -3,7 +3,7 @@ layout: post
 title:  Новое начало
 date:   2017-10-15
 author: Андрей Леонтьев
-categories: Hexlet
+categories: hexlet
 tags:	life
 comments: true
 cover:  "/assets/new_beginning/run.jpg"

@@ -3,7 +3,7 @@ layout: post
 title: "Неделя #0-1. Берем разгон и поехали!"
 date:   2017-10-22
 author: Андрей Леонтьев
-categories: Hexlet
+categories: hexlet
 tags:	life
 comments: true
 ---

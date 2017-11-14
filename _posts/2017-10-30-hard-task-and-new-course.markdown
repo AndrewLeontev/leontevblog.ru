@@ -3,7 +3,7 @@ layout: post
 title: "Неделя #2. Трудный день и новый курс"
 date:   2017-10-29
 author: Андрей Леонтьев
-categories: Hexlet
+categories: hexlet
 tags:	life
 comments: true
 ---
