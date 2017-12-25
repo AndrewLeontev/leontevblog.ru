@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Неделя #10. Удачный опыт"
-date:   2017-12-03
+date:   2017-12-25
 author: Андрей Леонтьев
 categories: hexlet
 tags: life Flexbox HTML CSS JS OOP
